@@ -1,13 +1,13 @@
 # git-challenge
 
 ## Git Challenge Elements
-1. src
-    1. Assets
-        1. style.css
-        1. app.js
-    1. index.html
-1. readme.md
-1. greeting.md
+- src
+    - Assets
+        - style.css
+        - app.js
+    - index.html
+- readme.md
+- greeting.md
 
 | **Git**      | **Markdown** | **Terminal** |
 |----------|----------|----------|
